@@ -13,11 +13,11 @@ Full Stack Engineer at Promotion for Human Aid and Community Development in Afri
 Web Design Instructor
 🌐 Find me online:
 
-📘 Facebook: https://facebook.com/solomongx/
-💼 LinkedIn: [Your LinkedIn URL]
-🐦 Twitter: [Your Twitter handle]
-🌐 Website: https://solomon.ng
 📫 How to reach me:
+📧 Email: ask@solomon.ng
+📞 Phone number: +2348154992990
+💼 LinkedIn: https://www.linkedin.com/in/solomon-gbeta/
+📘 Facebook: https://facebook.com/solomongx/
 
 📧 Email: ask@solomon.ng
 ⭐️ Feel free to check out my repositories and connect with me! Happy coding! 🚀

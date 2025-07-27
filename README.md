@@ -2,16 +2,19 @@
 
 🔧 Technologies:
 
-Languages: [e.g., Python, Java, JavaScript]
-Frameworks: [e.g., React, Django, Spring Boot]
-Tools: [e.g., Git, Docker, AWS]
+Languages: Python, Java, JavaScript, php 
+Frameworks: React, Django, Laravel
+Tools:  Git, Docker, AWS
+CMS: WordPress, Joomla, WHMCS, Moodle, Magento and CRM tools
+
 💼 Experience:
 
-Microsoft Technical Trainer at New Horizons Port Harcourt
+Microsoft Technical Trainer at New Horizons Port Harcourt 
+Trainer and manager at Multilancer LTD
 Server Administrator at Linkpoint Resources International
 Full Stack Engineer at Promotion for Human Aid and Community Development in Africa
 Web Design Instructor
-🌐 Find me online:
+🌐 Find me online: solomon.ng
 
 📫 How to reach me:
 
